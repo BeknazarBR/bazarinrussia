@@ -1,0 +1,23 @@
+<?php return array (
+  'time' => 1650955513,
+  'data' => 
+  array (
+    0 => 
+    array (
+      'city_id' => '46024',
+      'country_id' => '12',
+      'region_id' => '196',
+      'city_name' => 'Бишкек',
+      'city_alias' => 'bishkek',
+      'city_count_view' => '93',
+      'city_default' => '1',
+      'city_desc' => NULL,
+      'country_name' => 'кыргызстан',
+      'country_status' => '1',
+      'country_alias' => 'kyrgyzstan',
+      'country_lat' => '0',
+      'country_lng' => '0',
+      'country_desc' => '',
+    ),
+  ),
+) ?>

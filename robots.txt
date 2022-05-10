@@ -1,0 +1,6 @@
+User-agent: *
+Host: https://bazaarinrussia.com
+Sitemap: https://bazaarinrussia.com/sitemap.xml
+Disallow: /media/
+Disallow: /temp/
+Disallow: /templates/

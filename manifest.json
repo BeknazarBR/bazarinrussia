@@ -1,0 +1,46 @@
+{
+    "dir": "ltr",
+    "lang": "Russian",
+    "name": "Bazaar in Russia",
+    "short_name": "BazaarinRussia",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://bazaarinrussia.com/",
+    "url": "https://bazaarinrussia.com/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "description": "Bazaar in Russia",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://bazaarinrussia.com/templates/icons_pwa/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://bazaarinrussia.com/templates/icons_pwa/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://bazaarinrussia.com/templates/icons_pwa/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://bazaarinrussia.com/templates/icons_pwa/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "https://bazaarinrussia.com/templates/icons_pwa/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

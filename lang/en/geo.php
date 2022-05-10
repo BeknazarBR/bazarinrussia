@@ -1,0 +1,1 @@
+<?php return ["35d4e7cd96cda3e5f75946189b678ad1" => "Kyrgyzstan","2a4a7804f852c690c181ab921cc3c978" => "Chuy","fc5c9a7ee0392512caa8bb0fec87b65a" => "Bishkek","5fe2646d25b719ab6d745dc3f8c51d04" => "Russia","9ce8a6fd26020d85d15cdecac3ab77f7" => "Moscow oblast","052a2abb6a52bb7293fa12a3a77c012e" => "Moscow"]; ?>
